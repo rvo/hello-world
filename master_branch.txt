@@ -1,1 +1,5 @@
 master
+
+Conflicted Branch
+
+Edited into master branch
